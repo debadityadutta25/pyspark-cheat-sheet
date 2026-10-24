@@ -70,8 +70,8 @@ An interactive, high-performance web application and comprehensive cheat sheet f
 ### 2. Installation & Local Development
 ```bash
 # Clone the repository
-git clone https://github.com/debadityadutta25/datainsight-studio-minimal.git
-cd datainsight-studio-minimal
+git clone https://github.com/debadityadutta25/pyspark-cheat-sheet.git
+cd pyspark-cheat-sheet
 
 # Install dependencies
 npm install

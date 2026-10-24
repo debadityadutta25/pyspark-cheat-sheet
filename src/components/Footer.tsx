@@ -67,7 +67,7 @@ export const Footer: React.FC = () => {
             <ul className="space-y-1.5 text-zinc-400">
               <li>
                 <a
-                  href="https://github.com/debadityadutta25/datainsight-studio-minimal"
+                  href="https://github.com/debadityadutta25/pyspark-cheat-sheet"
                   target="_blank"
                   rel="noreferrer"
                   className="hover:text-orange-400 transition flex items-center gap-1"
